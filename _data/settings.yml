@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Objective',   url: 'objective.html'}
-- {name: 'Partners', url: 'partners.html'}
-- {name: 'Publications', url: 'publications.html'}
+- {name: 'objective',   url: 'objective.html'}
+- {name: 'partners', url: 'partners.html'}
+- {name: 'publications', url: 'publications.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
