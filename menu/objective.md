@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objective of the project
-permalink: /Objective
+permalink: /objective
 ---
 
 L'imagerie **SAR** (Synthetic Aperture Radar, radar à synthèse d'ouverture) repose sur l'émission d'ondes électro-magnétiques hyper-fréquences qui sont ensuite rétro-diffusées par les éléments à la surface du sol, permettant ainsi d'en mesurer les propriétés physiques. 
