@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'ASTRAL'
-description:	       'pprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle'
+description:	       'Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle'
 author:              'SAR'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
