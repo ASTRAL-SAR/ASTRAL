@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome2"
+title: "Welcome 3"
 author: "FT"
 categories: journal
 tags: [documentation,sample]
