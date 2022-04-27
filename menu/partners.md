@@ -6,4 +6,4 @@ permalink: /partners
 
 Télécom Paris
 
-![telecom](https://github.com/ASTRAL-SAR/ASTRAL/blob/gh-pages/assets/img/telecom.png "Lagrange Demo Image")
+![telecom paris](https://github.com/ASTRAL-SAR/ASTRAL/blob/gh-pages/assets/img/telecom.jpeg "Télécom Image")
