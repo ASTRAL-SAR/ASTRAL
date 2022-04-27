@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: Partners
 permalink: /partners
 ---
 
 Télécom Paris
 
-![cards](https://github.com/ASTRAL-SAR/ASTRAL/blob/gh-pages/assets/img/cards.jpg "cards Image")
+![sample image](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Sample Image")
