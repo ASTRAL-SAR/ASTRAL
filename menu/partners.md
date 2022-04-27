@@ -4,4 +4,5 @@ title: Partners
 permalink: /partners
 ---
 
-Add list of partners and logos
+Télécom Paris
+![Télécom Paris](/assets/img/telecom.png "Télécom Paris logo")
