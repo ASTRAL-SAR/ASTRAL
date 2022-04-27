@@ -5,4 +5,5 @@ permalink: /partners
 ---
 
 Télécom Paris
-<img src="/assets/img/telecom.png" alt="Télécom logo" style="height: 100px; width:100px;"/>
+
+<img src="/assets/img/telecom.png" alt="Télécom logo" style="width:100px;"/>
