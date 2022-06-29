@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Objective',   url: 'objective.html'}
 - {name: 'Partners', url: 'partners.html'}
+- {name: 'Funding', url: 'funding.html'}
 - {name: 'Publications', url: 'publications.html'}
 - {name: 'Posts', url: 'posts.html'}
 
